@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "click-coockie"
+version = "0.1.0"
+description = ""
+authors = ["the_jota <jeremiassantana50@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+botcity-framework-core = "^1.2.1"
+botcity-framework-web = "^1.1.0"
+botcity-maestro-sdk = "^0.5.1"
+undetected-chromedriver = ">=3.5.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
