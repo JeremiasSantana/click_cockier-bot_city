@@ -1,0 +1,5 @@
+__pycache__
+.venv/
+.mypy_cache/
+.vscode
+logs/03/09/26
