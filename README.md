@@ -86,4 +86,4 @@
 # _Contato/Redes📲​_
 
 [![](https://img.icons8.com/?size=70&id=118979&format=png&color=000000)](www.linkedin.com/in/jeremias-santana-b4ab02272)
-[![](https://img.icons8.com/?size=77&id=118557&format=png&color=000000)](https://github.com/JeremiasSantana)
+[![](https://img.icons8.com/?size=77&id=118557&format=png&color=000000)](https://www.linkedin.com/in/jeremias-santana-b4ab02272/)
