@@ -16,7 +16,7 @@
 ### _Obs3.:<br> Certifique-se de ter o chromium instalado no seu pc/notebook_
 
 
-# _Arvore do projeto arvore_ 🪾​⌨️​
+# _Arvore do projeto_ 🪾​⌨️​
 
 
     .
