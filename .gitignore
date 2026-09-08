@@ -1,5 +1,9 @@
-__pycache__
+__pycache__/
+*.pyc
+
 .venv/
 .mypy_cache/
-.vscode
-logs/03/09/26
+.vscode/
+
+logs/
+*.log

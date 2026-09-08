@@ -1,5 +1,6 @@
 from botcity.web import Browser, By, WebBot
 
+from uteis.ferramentas.acessorios import FerramentasUteis
 from uteis.tratamento_log.logger import loggin
 
 
@@ -115,7 +116,7 @@ class ClickCoockie(BotWeb):
             upgrade0 = self.bot.find_element(
                 selector="upgrade0",
                 by=By.ID,
-                waiting_time=99999999999999,
+                waiting_time=FerramentasUteis.relogio(),
                 ensure_clickable=True
             )
 
@@ -133,7 +134,7 @@ class ClickCoockie(BotWeb):
             contrucao = self.bot.find_elements(
                 selector=".product.unlocked.enabled",
                 by=By.CSS_SELECTOR,
-                waiting_time=999999999999,
+                waiting_time=FerramentasUteis.relogio(),
                 ensure_visible=True
             )
 
