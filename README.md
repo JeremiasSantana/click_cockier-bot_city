@@ -30,7 +30,11 @@
     │   │   └── 09
     │   │       └── 26
     │   │           └── pasta_log.log
-    │   └── 05
+    │   ├── 05
+    │   │   └── 09
+    │   │       └── 26
+    │   │           └── pasta_log.log
+    │   └── 07
     │       └── 09
     │           └── 26
     │               └── pasta_log.log
@@ -43,8 +47,13 @@
     │   └── bot.cpython-312.pyc
     ├── pyproject.toml
     ├── README.md
-    ├── test.py
     └── uteis
+        ├── ferramentas
+        │   ├── acessorios.py
+        │   ├── __init__.py
+        │   └── __pycache__
+        │       ├── acessorios.cpython-312.pyc
+        │       └── __init__.cpython-312.pyc
         ├── tratamento_bot
         │   ├── bot.py
         │   ├── __init__.py
